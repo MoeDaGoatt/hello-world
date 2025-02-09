@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+My name is Muhammad Hamza and I am a Computer Science major with a minor in Applied Mathematics. I like to play sports and videogames. 
